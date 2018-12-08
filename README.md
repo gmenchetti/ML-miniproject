@@ -49,7 +49,7 @@ where the last two fields must be replaced with
 * one hot encoding: one_hot (test in the one hot encoded dataset), no_one_hot (test in the dataset without one hot encoding)
 
 
-##Notes
+## Notes
 The given dataset is already preprocessed and saved in the *n_numpy_ds* folder.
 To create a new dataset, run the *create_ds.py* file, indicating whether the new
 dataset must be downsampled, if one hot encoding should be applied and setting
