@@ -1,5 +1,5 @@
-##CS 412 - Miniproject Track 1
-####Guglielmo Menchetti
+## CS 412 - Miniproject Track 1
+#### Guglielmo Menchetti
 
 ## Description
 The task of this project is to build a classification model that is able to predict how empathic is a person. 
@@ -7,7 +7,7 @@ More in particular, if a person can be associated to one of the following catego
 *Very Empathetic*, *Not Very Empathetic*.
 ## Getting started
 
-###Installation
+### Installation
 
 This project has been built using Python 3.6.
 
@@ -16,7 +16,7 @@ In order to run the program, the following libraries must be installed:
 * [numpy](https://docs.scipy.org/doc/)
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/)
 
-###Run train
+### Run train
 Is possible to run the train code, while inside this folder, executing the following terminal 
 line code
 
@@ -30,12 +30,12 @@ where the last two fields must be replaced with
 * one hot encoding: one_hot (train in the one hot encoded dataset), no_one_hot (train in the dataset without one hot encoding)
 
 
-#####Note
+##### Note
 
 At the end of the training process, the model will be saved in the *models* folder.
 Running the train file will override the old models. 
 
-###Run test
+### Run test
 It is possible to run the test code, while inside this folder, executing the following terminal 
 line code
 
