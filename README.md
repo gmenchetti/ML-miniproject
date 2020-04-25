@@ -1,8 +1,7 @@
 ## CS 412 - Miniproject Track 1
-#### Guglielmo Menchetti
 
 ## Description
-The task of this project is to build a classification model that is able to predict how empathic is a person. 
+The task of this project is to build a classification model that is able to predict how empathic a person is. 
 More in particular, if a person can be associated to one of the following categories: 
 *Very Empathetic*, *Not Very Empathetic*.
 ## Getting started
@@ -17,7 +16,7 @@ In order to run the program, the following libraries must be installed:
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/)
 
 ### Run train
-Is possible to run the train code, while inside this folder, executing the following terminal 
+It is possible to run the train code, while inside this folder, executing the following terminal 
 line code
 
 ```
